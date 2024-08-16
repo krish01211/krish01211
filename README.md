@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...here maybe
 - 📫 How to reach me ...mail
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...earth is a planet
 
 <!---
 krish01211/krish01211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
